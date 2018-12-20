@@ -41,7 +41,7 @@ That's  all !
    
 - Login, you can use username `fdse_microservices@163.com` && password `DefaultPassword`
 
-    <img src="https://github.com/liucloudhub/liucloudhub.github.io/blob/master/img/android/Screenshot_2018-12-10-19-56-56-992_ts.trainticket.png" width="350" hegiht="620" align=center />
+    <img src="https://raw.githubusercontent.com/liucloudhub/liucloudhub.github.io/master/img/android/Screenshot_2018-12-20-07-07-09-744_ts.trainticket.png" width="350" hegiht="620" align=center />
    
    
 - After login, you will see the below  page
@@ -58,7 +58,7 @@ That's  all !
   
     <img src="https://raw.githubusercontent.com/liucloudhub/liucloudhub.github.io/master/img/android/Screenshot_2018-12-10-19-30-12-386_ts.trainticket.png" width="350" hegiht="620" align=center />
 
-    <img src="https://raw.githubusercontent.com/liucloudhub/liucloudhub.github.io/master/img/android/0B5A0F77E272A920483C73BA93F102B9.jpg" width="350" hegiht="620" align=center />
+    <img src="https://raw.githubusercontent.com/liucloudhub/liucloudhub.github.io/master/img/android/Screenshot_2018-12-20-07-13-24-590_ts.trainticket.png" width="350" hegiht="620" align=center />
  
 - Buy ticket
 

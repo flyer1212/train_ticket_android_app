@@ -98,7 +98,7 @@
     <string name="common_contacts">common contacts</string>
 
     <!--order list page-->
-    <string name="no_order_info">no order inforamtion</string>
+    <string name="no_order_info">no order</string>
     <string name="pull_to_refresh">pull to refresh</string>
     <string name="order_list">Order List</string>
     <string name="all_orders">All</string>
