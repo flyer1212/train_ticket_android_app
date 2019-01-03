@@ -25,12 +25,20 @@ microservice benchmark android app
 - (5) Than build with Android Studio.
 
 That's  all !
-
+ 
 
 ### Notification
 
-**Note:** If your server deployed in the Public Cloud, your android does not need to use the same network! conversely needs!
+**Note:** :
+- If your server deployed in the Public Cloud, your android does not need to use the same network! conversely needs!
 
+- You need to set your Android system language to English
+
+- If you find that there are no tickets under the current date, please select or click on the next day.
+
+This may be the reason for the time zone. Our server side does not all use timestamp at present, and the date is actually a bug on the server side itself. We will fix it in the next refactoring
+          
+ 
 
 ### Use Steps
   if your successfully build it, than congratulation!
