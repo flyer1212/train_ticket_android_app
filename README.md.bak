@@ -36,7 +36,7 @@ That's  all !
 
 - If you find that there are no tickets under the current date, please select or click on the next day.
 
-This may be the reason for the time zone. Our server side does not all use timestamp, and the date is actually a bug on the server side itself. We will fix it in the next refactoring
+This may be the reason for the time zone. Our server side does not all use timestamp at present, and the date is actually a bug on the server side itself. We will fix it in the next refactoring
           
  
 
