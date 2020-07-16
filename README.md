@@ -43,58 +43,41 @@ This may be the reason for the time zone . Our server side does not all use time
 ### Use Steps
   if your successfully build it, than congratulation!
 
-- Before login, go to account page
-  
   <img src="./img/account.png" alt="图片替换文本" width="300" height="513" align="left" />
   
-  
-- Login, you can use username `fdse_microservices@163.com` && password `DefaultPassword`
 
  <img src="./img/login.png" alt="图片替换文本" width="300" height="513" align="left" />
 
 
-- After login, you will see the below  page
-
  <img src="./img/loged.png" alt="图片替换文本" width="300" height="513" align="left" />
 
 
-
-- Contacts List
-
   <img src="./img/contacts.png" alt="图片替换文本" width="300" height="513" align="left"/>
 
-  
-- Orders  List
+
   
    <img src="./img/orderlist.png" alt="图片替换文本" width="300" height="513" align="left"/>
 
    <img src="./img/orderempty.png" alt="图片替换文本" width="300" height="513" align="left"/>
 
   
-  
-- Buy ticket
 
  <img src="./img/buy.png" alt="图片替换文本" width="300" height="513" align="left"/> 
 
-- Path
 
  <img src="./img/path.png" alt="图片替换文本" width="300" height="513" align="left"/>
  
-- Path Info
   
  <img src="./img/info.png" alt="图片替换文本" width="300" height="513" align="left"/>
 
 
-- Passenger Select
 
  <img src="./img/passenger.png" alt="图片替换文本" width="300" height="513" align="left"/>
 
 
-- Order Detail
 
  <img src="./img/detail.png" alt="图片替换文本" width="300" height="513" align="left"/>
 
 
-- City search
 
   <img src="./img/search.png" alt="图片替换文本" width="300" height="513" align="left"/>
