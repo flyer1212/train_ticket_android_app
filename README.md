@@ -25,7 +25,7 @@ microservice benchmark android app
 - (5) Than build with Android Studio.
 
 That's  all !
- 
+
 
 ### Notification
 
@@ -38,57 +38,63 @@ That's  all !
 
 This may be the reason for the time zone . Our server side does not all use timestamp at present, and the date is actually a bug on the server side itself. We will fix it in the next refactoring
           
- 
+
 
 ### Use Steps
   if your successfully build it, than congratulation!
 
 - Before login, go to account page
-   
-![](img/account.png)
-   
+  
+  <img src="./img/account.png" alt="图片替换文本" width="300" height="513" align="left" />
+  
+  
 - Login, you can use username `fdse_microservices@163.com` && password `DefaultPassword`
 
- ![](img/login.png)
-   
-   
+ <img src="./img/login.png" alt="图片替换文本" width="300" height="513" align="left" />
+
+
 - After login, you will see the below  page
 
- ![](img/loged.png)
-   
+ <img src="./img/loged.png" alt="图片替换文本" width="300" height="513" align="left" />
+
+
 
 - Contacts List
-   ![](img/contacts.png)
 
-     
-  
-- orders  List
-  
-   ![](img/orderlist.png)
+  <img src="./img/contacts.png" alt="图片替换文本" width="300" height="513" align="left"/>
 
-   ![](img/orderempty.png)
- 
+  
+- Orders  List
+  
+   <img src="./img/orderlist.png" alt="图片替换文本" width="300" height="513" align="left"/>
+
+   <img src="./img/orderempty.png" alt="图片替换文本" width="300" height="513" align="left"/>
+
+  
+  
 - Buy ticket
 
- ![](img/buy.png)
+ <img src="./img/buy.png" alt="图片替换文本" width="300" height="513" align="left"/> 
 
-- Travel Path
+- Path
 
- ![](img/path.png)
-  
+ <img src="./img/path.png" alt="图片替换文本" width="300" height="513" align="left"/>
+ 
 - Path Info
   
- ![](img/info.png)
+ <img src="./img/info.png" alt="图片替换文本" width="300" height="513" align="left"/>
+
 
 - Passenger Select
 
- ![](img/passenger.png)
+ <img src="./img/passenger.png" alt="图片替换文本" width="300" height="513" align="left"/>
 
-  
+
 - Order Detail
 
- ![](img/detail.png)
+ <img src="./img/detail.png" alt="图片替换文本" width="300" height="513" align="left"/>
 
 
 - City search
- ![](img/search.png)
+
+  <img src="./img/search.png" alt="图片替换文本" width="300" height="513" align="left"/>
